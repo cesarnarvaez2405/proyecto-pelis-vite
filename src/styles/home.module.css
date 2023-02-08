@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    color: rgba(219, 96, 38, 0.5);
+    text-shadow: 0 1px 0px #ffffff,
+    1px 0 0px #ffffff,
+    1px 2px 1px #ffffff,
+    2px 1px 1px #ffffff,
+    2px 3px 2px #ffffff,
+    3px 2px 2px #ffffff,
+    3px 4px 2px #ffffff,
+    4px 3px 3px #ffffff,
+    4px 5px 3px #ffffff,
+    5px 4px 2px #ffffff,
+    5px 6px 2px #ffffff,
+    6px 5px 2px #ffffff,
+    6px 7px 1px #ffffff,
+    7px 6px 1px #ffffff,
+    7px 8px 0px #ffffff,
+    8px 7px 0px #ffffff;
+    font-size: 3rem;
+}

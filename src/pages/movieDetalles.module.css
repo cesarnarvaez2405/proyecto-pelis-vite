@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Itim&family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+
+.detallesContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: rgba(255, 255, 255, 0.5);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 30px;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    justify-content: space-around;
+    padding-left: 30vh;
+    padding-right: 30vh;
+}
+
+.col {
+    max-width: 400px;
+    width: 80%;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+@media(max-width: 420px) {
+    .detallesContainer {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 230px);
+
+    }
+}
+
+.image {
+    border-radius: 10px;
+}
+
+.movieItemsOne {
+    font-size: 30px;
+    margin-top: 0;
+    font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", sans-serif;
+
+}
+
+.movieItems {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.descripcion {
+    font-family: 'Sarabun', sans-serif;
+
+}

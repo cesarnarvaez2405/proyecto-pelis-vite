@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+body{
+    background-attachment: fixed;
+    margin: 0 0;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='2000' height='1500' preserveAspectRatio='none' viewBox='0 0 2000 1500'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath1096%26quot%3b)' fill='none'%3e%3crect width='2000' height='1500' x='0' y='0' fill='%2332325d'%3e%3c/rect%3e%3ccircle r='47.785' cx='1324.68' cy='497.71' fill='url(%23SvgjsLinearGradient1097)'%3e%3c/circle%3e%3ccircle r='119.14' cx='334.28' cy='901.46' fill='url(%23SvgjsLinearGradient1098)'%3e%3c/circle%3e%3ccircle r='133.765' cx='932.99' cy='485.86' fill='url(%23SvgjsLinearGradient1099)'%3e%3c/circle%3e%3ccircle r='141.51' cx='955.68' cy='222.17' fill='url(%23SvgjsLinearGradient1100)'%3e%3c/circle%3e%3ccircle r='86.655' cx='615.42' cy='534.8' fill='%2343468b'%3e%3c/circle%3e%3ccircle r='123.56' cx='74.65' cy='15.65' fill='url(%23SvgjsLinearGradient1101)'%3e%3c/circle%3e%3ccircle r='58.66' cx='230.44' cy='1466.37' fill='url(%23SvgjsLinearGradient1102)'%3e%3c/circle%3e%3ccircle r='89.96' cx='851.55' cy='1146.06' fill='url(%23SvgjsLinearGradient1103)'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath1096'%3e%3crect width='2000' height='1500' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='1229.1100000000001' y1='497.71' x2='1420.25' y2='497.71' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1097'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='95.99999999999997' y1='901.46' x2='572.56' y2='901.46' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1098'%3e%3cstop stop-color='%23e298de' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23484687' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='665.46' y1='485.86' x2='1200.52' y2='485.86' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1099'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='672.66' y1='222.17' x2='1238.6999999999998' y2='222.17' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1100'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='-172.47' y1='15.650000000000006' x2='321.77' y2='15.650000000000006' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1101'%3e%3cstop stop-color='%2332325d' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23424488' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='113.12' y1='1466.37' x2='347.76' y2='1466.37' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1102'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='671.63' y1='1146.06' x2='1031.47' y2='1146.06' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1103'%3e%3cstop stop-color='%23e298de' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23484687' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+
+h1{
+    font-family: 'Shrikhand', cursive;    color: rebeccapurple;
+    
+
+}
+
+main{
+    color: azure;
+    
+}
+
+a{
+    text-decoration: none;
+}
